@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/selectWaterBottle"
+        android:title="@string/select_the_water_bottle"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/selectGreenBottle"
+        android:title="@string/select_the_green_bottle"
+        app:showAsAction="never"
+        />
+</menu>
