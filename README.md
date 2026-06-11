@@ -21,11 +21,11 @@ The application provides an interactive bottle-spinning experience with built-in
 
 | Live Demo | Classic Green Bottle | 
 |:---:|:---:|
-| <img width="360" alt="Live Demo" src="https://github.com/user-attachments/assets/6dc799f1-556c-42ca-9fa6-f00d32c611ad" /> | <img alt="Green Bottle" src="https://github.com/user-attachments/assets/7a16c924-8fa7-4b20-b2dc-215866388fca" /> | 
+| <img width="360" alt="Live Demo" src="https://github.com/user-attachments/assets/6dc799f1-556c-42ca-9fa6-f00d32c611ad" /> | <img width="360" alt="Green Bottle" src="https://github.com/user-attachments/assets/7a16c924-8fa7-4b20-b2dc-215866388fca" /> | 
 
 | Options Menu | Water Bottle Mode |
 |:---:|:---:|
-| <img alt="Options Menu" src="https://github.com/user-attachments/assets/7f40668e-aa61-4058-b38d-84c0ee495f51" /> | <img alt="Water Bottle" src="https://github.com/user-attachments/assets/094b84b5-cfc0-451c-8921-40fa77147db8" /> | 
+| <img width="360" alt="Options Menu" src="https://github.com/user-attachments/assets/7f40668e-aa61-4058-b38d-84c0ee495f51" /> | <img width="360" alt="Water Bottle" src="https://github.com/user-attachments/assets/094b84b5-cfc0-451c-8921-40fa77147db8" /> | 
 
 ---
 
