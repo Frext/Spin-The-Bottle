@@ -1,5 +1,8 @@
 # Spin The Bottle
 
+[![Android](https://img.shields.io/badge/Android-5.0%20%2B-green.svg?style=flat&logo=android&logoColor=white)](https://developer.android.com)
+[![Language](https://img.shields.io/badge/Language-Kotlin-purple.svg?style=flat&logo=kotlin)](https://kotlinlang.org/)
+
 A simple Android application designed to replicate the classic party game. 
 
 Spin the bottle digitally, switch up your styles on the fly, and let fate decide who's next!
